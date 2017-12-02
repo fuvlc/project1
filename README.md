@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-first
-=======
 # Project Objective
 
 This is a project for both to learn the basics and also not so basics.
@@ -26,7 +23,7 @@ project, the idea is to understand how to make a web app from scratch`
 ## features
 * Posts and replies (oriented to questions and answers)
 * Ratings of subjects, teachers, tutors, ...
-* Commentaries and Rating/likes functionality
+* Comments and Rating/likes functionality
 * Posts and answer sharing
 * Iterests and subscriptions 
 
@@ -34,7 +31,6 @@ project, the idea is to understand how to make a web app from scratch`
 
 * Posts of subscribed interests
 * Saved Posts
-* My rated/liked commentaries
+* My rated/liked comments
 
 
->>>>>>> Stashed changes
